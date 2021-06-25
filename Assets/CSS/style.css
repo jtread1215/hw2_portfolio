@@ -53,12 +53,19 @@ header li a {
 /*Banner Section*/
 .banner {
   background-color: #333;
-  color: #fff;
+  color: white;
   padding: 20px;
   text-align: center;
 }
+.h2 {
+  color: white;
+}
 
 /*Skills Section*/
+
+.skills {
+  margin-left: 150px;
+}
 
 .parent {
   background-color: #ffc200;
@@ -77,6 +84,10 @@ header li a {
   .ops { grid-area: 2 / 2 / 3 / 3; }
   .webdev { grid-area: 3 / 1 / 4 / 2; }
   .sale { grid-area: 3 / 2 / 4 / 3; }
+
+.section {
+  margin-left: 50px;
+}
 
 /*Footer Section*/
 footer {
