@@ -5,7 +5,8 @@ Personal portfolio of what I can do in the Web Dev World! It's definitley a work
 
 # Technologies
 This portfolio uses the following technologies:
-    HTML
+   
+    HTML5
     CSS
 
 # Links
